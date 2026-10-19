@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Link | https://github.com/dottxt-ai/outlines/issues/2070 |
-| Status | Unclaimed (unassigned, no linked PR, created Oct 2026) |
+| Status | **claimed** (2026-10-19) — unassigned, no linked PR |
 | Priority | P1 — recommended #2 after autogen PR |
 | Difficulty | Easy |
 | Effort | ~½ day |

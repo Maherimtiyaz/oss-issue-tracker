@@ -10,7 +10,7 @@ Repo: `D:\oss-tracker`  —  push to GitHub as `oss-issue-tracker`.
 | # | Repo / Issue | Title (short) | Priority | Difficulty | Effort |
 |---|--------------|---------------|----------|-----------|--------|
 | 01 | microsoft/autogen [#8337](https://github.com/microsoft/autogen/issues/8337) | `create_stream()` skips `normalize_name()` on tool-call names | P0 — **solution done, PR ready** | Easy | done |
-| 02 | dottxt-ai/outlines [#2070](https://github.com/dottxt-ai/outlines/issues/2070) | Mistral adapter broken with `mistralai >= 3.0.0` | P1 | Easy | ~½ day |
+| 02 | dottxt-ai/outlines [#2070](https://github.com/dottxt-ai/outlines/issues/2070) | Mistral adapter broken with `mistralai >= 3.0.0` | P1 — **claimed** | Easy | ~½ day |
 | 03 | langchain-ai/langchain [#41149](https://github.com/langchain-ai/langchain/issues/41149) | `XMLOutputParser` drops valid elements with encoding attrs | P1 | Easy | ~½ day |
 | 04 | langchain-ai/langgraph [#9241](https://github.com/langchain-ai/langgraph/issues/9241) | Sync SSE handshake leak exhausts HTTP connection pool | P1 | Medium | ~1 day |
 | 05 | BerriAI/litellm [#45787](https://github.com/BerriAI/litellm/issues/45787) | URL containing "predict" misrouted to Vertex handler, kills logging | P2 | Medium | ~1 day |
